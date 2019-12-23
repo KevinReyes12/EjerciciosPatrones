@@ -1,0 +1,5 @@
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones\bin\Debug\EjerciciosPatrones.exe.config
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones\bin\Debug\EjerciciosPatrones.exe
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones\bin\Debug\EjerciciosPatrones.pdb
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones\obj\Debug\EjerciciosPatrones.exe
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones\obj\Debug\EjerciciosPatrones.pdb

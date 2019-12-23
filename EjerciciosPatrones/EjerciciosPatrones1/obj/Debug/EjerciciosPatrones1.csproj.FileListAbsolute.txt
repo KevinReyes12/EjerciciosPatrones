@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones1\bin\Debug\EjerciciosPatrones1.exe.config
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones1\bin\Debug\EjerciciosPatrones1.exe
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones1\bin\Debug\EjerciciosPatrones1.pdb
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones1\obj\Debug\EjerciciosPatrones1.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones1\obj\Debug\EjerciciosPatrones1.exe
+C:\Users\pc\source\repos\EjerciciosPatrones\EjerciciosPatrones1\obj\Debug\EjerciciosPatrones1.pdb
